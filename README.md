@@ -1,2 +1,2 @@
 # taste-duh-coffee
-taste the coffee????
+A Point of Sale of a coffee shop
